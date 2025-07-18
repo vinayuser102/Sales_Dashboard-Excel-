@@ -26,6 +26,15 @@ The dashboard provides a comprehensive view of coffee sales, featuring:
     *   **Size Slicer:** Filters by coffee bean package sizes (0.2 kilo, 0.5 kilo, 1 kilo, 2.5 kilo).
     *   **Loyalty Card Slicer:** Filters customers based on whether they possess a loyalty card.
 
+
+
+
+
+https://github.com/user-attachments/assets/ee3d47c1-1e7c-4be8-a28f-b3155452da8c
+
+
+
+
 **Data Sources & Handling:**
 The dashboard uses a dataset on coffee bean sales, drawing information from three main tables: 'orders', 'customers', and 'products'.
 *   **Data Gathering:** Customer information (customer name, email, country) was gathered using the **XLOOKUP formula**. Product information (coffee type, roast type, size, unit price, profit) was gathered using the **INDEX MATCH formula**, chosen for its dynamic capabilities to populate multiple columns with a single formula.
