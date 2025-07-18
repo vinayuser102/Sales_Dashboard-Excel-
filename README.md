@@ -10,6 +10,11 @@ This project demonstrates the creation of an interactive and dynamic coffee sale
 **Project Overview & Purpose:**
 The primary goal of this project was to build an end-to-end Excel solution to analyse coffee bean sales data. This involved consolidating data from multiple tables, performing necessary transformations and calculations, and then visualising key sales metrics through interactive charts and filters.
 
+<img width="1195" height="668" alt="image" src="https://github.com/user-attachments/assets/ae0121ef-56f5-432e-ad79-8729a5e98d39" />
+
+
+
+
 **Key Features of the Dashboard:**
 The dashboard provides a comprehensive view of coffee sales, featuring:
 *   **Total Sales Over Time Line Chart:** Displays total sales trends over time, segmented by four different coffee types: Arabica, Excelsa, Liberica, and Robusta.
