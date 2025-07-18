@@ -30,7 +30,11 @@ The dashboard provides a comprehensive view of coffee sales, featuring:
 
 
 
-https://github.com/user-attachments/assets/ee3d47c1-1e7c-4be8-a28f-b3155452da8c
+https://github.com/user-attachments/assets/28ef09bc-75d6-4b2d-9a9f-33f9a1677db4
+
+
+
+
 
 
 
